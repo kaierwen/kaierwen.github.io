@@ -15,5 +15,8 @@ categories: android
 :-:|:-:
 what|android.text.style包底下的类
 
+# [SpannableStringBuilder](https://developer.android.com/reference/android/text/SpannableStringBuilder)
+
+
 参考：
 - [https://developer.android.com/guide/topics/text/spans](https://developer.android.com/guide/topics/text/spans)
