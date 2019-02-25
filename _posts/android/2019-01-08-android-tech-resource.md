@@ -14,10 +14,16 @@ categories: android
 - [鸿洋](https://blog.csdn.net/lmj623565791/)
 - [罗升阳](https://blog.csdn.net/luoshengyang)
 - [Saiful Alam](https://plus.google.com/102248379266618279227)
+- [CoderStory](https://blog.coderstory.cn/)
+- [太极](http://weishu.me/)
 
 # 公众号
 - 鸿洋
 
+# XDA大神
+- [Chainfire Profile](https://forum.xda-developers.com/member.php?u=631273)
+- [Chainfire Google Play Apps](https://play.google.com/store/apps/developer?id=Chainfire)
+- [hamzahrmalik's Profile](https://forum.xda-developers.com/member.php?u=5290145)
 
 # 开源库
 
